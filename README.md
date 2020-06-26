@@ -59,7 +59,8 @@ The dataset contains a total of **38 classes** of plant disease and **1** class 
 
 Due to the limited computational power, it is difficult to train the classification model locally on a majority of normal machines. Therefore, we use the processing power offered by Google Colab notebook as it connects us to a free TPU instance quickly and effortlessly.
 
-## References
+## Useful Links
 
-1. Read more about this on my blog: [Creating a Plant Disease Detector from scratch using Keras](https://medium.com/@knagda008/creating-a-plant-disease-detector-from-scratch-using-keras-ddd914687349).
-2. The PlantVillage dataset paper can be found [here](https://arxiv.org/abs/1511.08060).
+1. Read more about this on my blog: [Creating a Plant Disease Detector from scratch using Keras](https://medium.com/@kevalnagda/plant-disease-detector-ddd914687349).
+2. The Google Colab Notebook can be viewed [here](https://colab.research.google.com/drive/1d3mVcoinztULLif3DzTMcbcA7KGha14W?usp=sharing).
+3. The PlantVillage dataset paper can be found [here](https://arxiv.org/abs/1511.08060).
